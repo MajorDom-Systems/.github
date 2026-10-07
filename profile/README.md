@@ -19,6 +19,8 @@ published to PyPI and usable on its own — not just inside the Hub.
   - **[integration-matter](https://github.com/MajorDom-Systems/integration-matter)** (`majordom-matter`) — Matter over Thread / Wi-Fi.
   - **[integration-zigbee](https://github.com/MajorDom-Systems/integration-zigbee)** (`majordom-zigbee`) — Zigbee via `zigpy`.
   - **[integration-homekit](https://github.com/MajorDom-Systems/integration-homekit)** (`majordom-homekit`) — Apple HomeKit (HAP).
+  - **[integration-esphome](https://github.com/MajorDom-Systems/integration-esphome)** (`majordom-esphome`) — ESPHome devices over the native API (`aioesphomeapi`).
+  - **[integration-zwave](https://github.com/MajorDom-Systems/integration-zwave)** (`majordom-zwave`) — Z-Wave via `zwave-js` (`zwave-js-server`).
 
 Adding a new protocol? Start from the template and follow the [integration docs](https://docs.majordom.io/device-integration).
 
