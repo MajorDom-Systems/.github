@@ -5,7 +5,7 @@
 Build **on** MajorDom, or hack **on** MajorDom itself. 
 
 - 🏠 **The product (for users):** [majordom.io](https://www.majordom.io)
-- 🔌 **ESPHome for MajorDom:** [docs.majordom.io/esphome-components](https://docs.majordom.io/esphome-components/) — ESPHome external components, starting with runtime Thread provisioning over BLE
+- 🔌 **ESPHome for MajorDom:** [docs.majordom.io/esphome](https://docs.majordom.io/esphome/) — ESPHome external components, starting with runtime Thread provisioning over BLE
 - 📖 **Build an integration:** [docs.majordom.io/integrations](https://docs.majordom.io/integrations)
 - 🤝 **Licensing, partnership, collaborations:** [parker-industries.org/partnership](https://parker-industries.org/partnership)
 
